@@ -1,4 +1,4 @@
-# ERC20
-Owneable, Pausable y Minteable, Con Quema.
+#ERC20
 
-No copies este Codigo, Advertencia de Riesgo.
+Owneable, Pausable and Minteable, With Burn.
+Do not copy this Code, Risk Warning.
