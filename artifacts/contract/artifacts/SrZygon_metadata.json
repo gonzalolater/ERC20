@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.4+commit.c7e474f2"
+		"version": "0.8.7+commit.e28d00a7"
 	},
 	"language": "Solidity",
 	"output": {
@@ -584,9 +584,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"artifacts/contract/contract-526c5b12e7.sol": "SrZygon"
+			"artifacts/contract/Balance.sol": "SrZygon"
 		},
-		"evmVersion": "istanbul",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -702,12 +702,12 @@
 				"dweb:/ipfs/QmVmf6LVMfFiEkvKYLzSv3bGHzymEW93AcUuFrNUdY3NtT"
 			]
 		},
-		"artifacts/contract/contract-526c5b12e7.sol": {
-			"keccak256": "0x7c87893841dd3f64c3861eccd01f9ed02df955ebde9bdb0555e86f1e7e30d939",
+		"artifacts/contract/Balance.sol": {
+			"keccak256": "0xb27150fcffd1dd216814d45fbf89d96b20c71b7a8e884f334f0c54fd9d1c8417",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://697052498b3b9936deade605b1ddaaf944953f1d47837468a7bb6d3b427552ed",
-				"dweb:/ipfs/QmaxJ4xAfAdwzhv1a5qypfiJC2bbY7oLd8SbaWpJNo9Fcb"
+				"bzz-raw://9fccd71290b840f40cdbdb8b4e700ae5873a211b35e358da7928e7f7c608e931",
+				"dweb:/ipfs/QmX2GhugG1pdDeKcfZbNpSmYPi9HzeJum3vzukKgGpRJrR"
 			]
 		}
 	},

@@ -9,7 +9,7 @@ import "@openzeppelin/contracts@4.7.3/token/ERC20/extensions/draft-ERC20Permit.s
 
 contract SrZygon is ERC20, ERC20Burnable, Pausable, Ownable, ERC20Permit {
     constructor() ERC20("SrZygon", "SrZ") ERC20Permit("SrZygon") {
-        _mint(msg.sender, 10000 * 10 ** decimals());
+        _mint(msg.sender, 1 * 10 ** decimals());
     }
 
     function pause() public onlyOwner {
