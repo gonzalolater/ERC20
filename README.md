@@ -1,6 +1,7 @@
 #ERC20
 
 Owneable, Pausable and Minteable, Burn with OpenZeppelin & RemixIde.
+
 Do not copy this Code, Risk Warning.
 
   1. Smart Contract.
