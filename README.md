@@ -15,4 +15,4 @@ Do not copy this Code, Risk Warning.
 
   4. Transaction Id: 0x27950824762b59ad30e8451bdfdfc7361a40f464ee52b9f69ea7539e60c07b3b
 
-  5. My Wallet Id: 0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
+  5. My Wallet Public Id: 0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
